@@ -334,6 +334,11 @@ Practical Enclave Malware with Intel SGX
 DIMVA 2019
 
 
+### Better Attestation
+
+OPERA: Open Remote Attestation for Intel’s Secure Enclaves
+CCS 2019
+
 
 ## Other Online Resources
 * [A collection of SGX academic researches categorized by Intel](https://software.intel.com/en-us/sgx/documentation/academic-research)
