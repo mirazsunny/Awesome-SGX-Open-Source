@@ -57,6 +57,7 @@ Intel Security Libraries for Data Center (Intel SecL-DC):
 
 OPERA: Open Remote Attestation for Intel's Secure Enclaves:
 [https://github.com/Calctopia-OpenSource/opera](https://github.com/Calctopia-OpenSource/opera)
+[https://par.nsf.gov/servlets/purl/10134887](Opera Paper)
 
 Intel end-to-end RA: [https://github.com/intel/sgx-ra-sample](https://github.com/intel/sgx-ra-sample)
 
